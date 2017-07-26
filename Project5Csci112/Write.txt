@@ -1,0 +1,156 @@
+
+Contestant: Clint Bartoletti
+Their ID: 025
+Money Raised: 1075.0
+
+
+Contestant: Mrs. Brenna Bergnaum
+Their ID: 011
+Money Raised: 1075.0
+
+
+Contestant: Dejuan Schumm DDS
+Their ID: 007
+Money Raised: 1000.0
+
+
+Contestant: Cali Ullrich
+Their ID: 029
+Money Raised: 950.0
+
+
+Contestant: Ransom Ruecker
+Their ID: 009
+Money Raised: 900.0
+
+
+Contestant: Adrianna Romaguera Jr.
+Their ID: 003
+Money Raised: 750.0
+
+
+Contestant: Reuben Kub MD
+Their ID: 019
+Money Raised: 700.0
+
+
+Contestant: Curtis Greenfelder
+Their ID: 010
+Money Raised: 675.0
+
+
+Contestant: Bob Jones
+Their ID: 000
+Money Raised: 675.0
+
+
+Contestant: Jackeline Bradtke
+Their ID: 004
+Money Raised: 600.0
+
+
+Contestant: Kallie Leuschke
+Their ID: 026
+Money Raised: 575.0
+
+
+Contestant: Odell Nolan
+Their ID: 014
+Money Raised: 550.0
+
+
+Contestant: Marcos Strosin
+Their ID: 013
+Money Raised: 500.0
+
+
+Contestant: Estel Balistreri
+Their ID: 017
+Money Raised: 500.0
+
+
+Contestant: Alyce Fritsch
+Their ID: 023
+Money Raised: 425.0
+
+
+Contestant: Ms. Darian Gusikowski
+Their ID: 027
+Money Raised: 400.0
+
+
+Contestant: Loren Wunsch
+Their ID: 021
+Money Raised: 325.0
+
+
+Contestant: Winfield Nienow
+Their ID: 030
+Money Raised: 300.0
+
+
+Contestant: Lorenza Thompson
+Their ID: 024
+Money Raised: 275.0
+
+
+Contestant: Dakota McDermott
+Their ID: 018
+Money Raised: 200.0
+
+
+Contestant: Monique Will
+Their ID: 016
+Money Raised: 125.0
+
+
+Contestant: Joaquin Boyer
+Their ID: 006
+Money Raised: 100.0
+
+
+Contestant: Casey Luettgen
+Their ID: 028
+Money Raised: 85.0
+
+
+Contestant: Catharine Cummings
+Their ID: 020
+Money Raised: 80.0
+
+
+Contestant: Deangelo Klocko
+Their ID: 002
+Money Raised: 75.0
+
+
+Contestant: Lurline Huels Sr.
+Their ID: 005
+Money Raised: 70.0
+
+
+Contestant: Bethany Collier
+Their ID: 008
+Money Raised: 50.0
+
+
+Contestant: Tyree Dach
+Their ID: 001
+Money Raised: 32.5
+
+
+Contestant: Francisco Gibson
+Their ID: 015
+Money Raised: 30.0
+
+
+Contestant: Dr. Dorris Muller
+Their ID: 022
+Money Raised: 25.0
+
+
+Contestant: Hunter Beier
+Their ID: 012
+Money Raised: 16.25
+
+Total is 13138.75
